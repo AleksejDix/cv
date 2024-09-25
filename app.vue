@@ -352,7 +352,7 @@ import Label from "@/components/Label.vue";
 import Meta from "@/components/Meta.vue";
 </script>
 
-<style scoped>
+<style scoped lang="postcss">
 .A4 {
   @apply shadow;
   padding: 1.5cm;
