@@ -40,7 +40,7 @@
                 <Label>Expert in</Label>
                 <Meta>
                   Vue.js, Tailwind CSS, Pinia, Vue Router, Nuxt.js, xState,
-                  TamnStack Query, Web Components, Web Performance, Image
+                  TanStack Query, Web Components, Web Performance, Image
                   Optimization, Web Accessibility (WCAG), SEO, Typescript,
                   JavaScript, Web Security practices, Buildtools
                 </Meta>
@@ -67,7 +67,7 @@
               <li>
                 <Label>Head of Frontend Development</Label>
                 <Meta>
-                  05.2023 - 02.2024 • Abacus Research AG • Zürich, Switzerland
+                  05.2023 - now • Abacus Research AG • Zürich, Switzerland
                 </Meta>
                 <ul class="list-disc pl-6 pb-1 text-xs [&>*]:py-1 py-2">
                   <li>
